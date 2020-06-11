@@ -1,0 +1,48 @@
+.bg-primary {
+    background-color: #002a42 !important;
+}
+
+.btn-primary {
+    background-color: #002a42 !important;
+    border-color: #002a42 !important;
+}
+
+section {
+    padding: 5em 0 !important;
+}
+
+.portfolio-box .portfolio-box-caption {
+    color: #002a42 !important;
+    background: rgba(221,221,221,.7);
+}
+
+footer {
+    height: 40px;
+    line-height: 40px;
+    /*background-image: linear-gradient(#fff, #212529 50%);*/
+}
+
+.espaco-sites {
+    margin-top: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .espaco-sites {
+        margin-top: 6rem;
+    }    
+}
+
+@font-face {
+    font-family: pictorial;
+    src: url('../font/Pictorial-Signature.ttf') format('truetype');
+}
+
+.font-creative {
+    font-family: pictorial;
+    font-size: 45pt;
+    color: #002a42;
+}
+
+.masthead {
+    background-image: linear-gradient(#bbb, #002a42) !important;
+}
